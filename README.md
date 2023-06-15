@@ -1,0 +1,1 @@
+This repository contains k neighbour and supoprt vector machine models for breast cancer prediction, the dataset was taken from kaggle
